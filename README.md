@@ -1,2 +1,2 @@
 # sudspg_ds
-sample programs and sample data of Advaced Lecture of Data Science. 
+2022年度1,2ターム開講のデータサイエンス基礎のサンプルプログラム・データです。
